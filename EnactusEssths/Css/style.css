@@ -11,13 +11,14 @@
 {
     float: right;
     text-align: center;
-    padding: 12px;
+    padding-bottom: 1px;
     text-decoration: none;
     font-size: 25px;
     line-height: 25px;
     border-radius: 4px;
     letter-spacing: 5px;
     word-spacing: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .headertext a:hover
 {
@@ -102,7 +103,7 @@ body
 	width:100%;
 	color:#CCC;
 	background:#333;
-	padding:30px;
+	padding:15px;
 }
 .para1
 {
@@ -113,4 +114,12 @@ body
     padding: 75px;
     height: 700px;
     
+}
+.ukps
+{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
 }
